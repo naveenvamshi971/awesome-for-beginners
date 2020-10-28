@@ -306,6 +306,9 @@ Habitica is a gamified task manager, webapp and android/ios app, really wonderfu
 
 - [OpenFoodFacts-iOS](https://github.com/openfoodfacts/openfoodfacts-ios/labels/help%20wanted) _(label: help wanted)_ <br>Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
+## Machine Learning
+Machine learning is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so.
+
 ## TypeScript
 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue) _(label: good first issue)_ <br>A superset of JavaScript that compiles to clean JavaScript output.
